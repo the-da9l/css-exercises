@@ -33,8 +33,12 @@ img {
   gap: 52px;
 }
 
-.text {
+.text, .text2 {
   text-align: center;
+}
+
+.text2 {
+  margin-top: -19px;
 }
 
 .plant {
@@ -43,4 +47,5 @@ img {
   align-items: flex-start;
   flex-wrap: wrap;
   max-width: 200px;
+  gap: 5px;
 }
